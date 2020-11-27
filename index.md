@@ -13,7 +13,7 @@ One stop guide for preparing for your machine learning interviews from top compa
 7. Design Instagram recommendation (coming soon)
 8. Build match driver-rider for Uber/Lyft (coming soon)
 9. Build rank answer for Quora (coming soon)
-10. Suggest Twitter trending hashtags
+10. Suggest Twitter trending hashtags (coming soon)
 
 
 
