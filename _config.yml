@@ -2,15 +2,5 @@ theme: jekyll-theme-slate
 title: machine learning system design
 description: Learn how facebook, apple, amazon, google, linkedin, snap design their machine learning system at scale.
 tagline: Learn how facebook, apple, amazon, google, linkedin, snap design their machine learning system at scale. Practice machine learning system design interviews.
-lsi: false
-safe: true
-source: [your repo's top level directory]
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 plugins:
   - jekyll-seo-tag
