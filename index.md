@@ -1,6 +1,6 @@
 ## Welcome to Machine Learning System Design Guide 
 
-One stop guide for preparing for your machine learning interviews from top companies: Facebook, Apple, Amazon, Google, Snap, LinkedIn, Pinterest. 
+One stop guide for preparing for your machine learning interviews from top companies: Facebook, Apple, Amazon, Google, Snap, LinkedIn, Pinterest, Twitter 
 
 ## [Machine Learning System design](https://github.com/khangich/machine-learning-interview/blob/master/course.md) 
 
@@ -10,6 +10,11 @@ One stop guide for preparing for your machine learning interviews from top compa
 4. [Ad Click Prediction](https://docs.google.com/document/d/171TRaMK9ADFXGKXOcmONuhhuHwYJDNVDkWDDohBYVNk/edit)
 5. [Estimate Delivery time](https://docs.google.com/document/d/1yBYE4zR-jlkljeKXDYveXHBWozjrpUOGWghV6SLgzOM/edit)
 6. [Airbnb Search ranking](https://docs.google.com/document/d/1Ecc-BLkaIWOtq5Wd3-BuNS7jq0b1NhclcgxWzReINlQ/edit)
+7. Design Instagram recommendation (coming soon)
+8. Build match driver-rider for Uber/Lyft (coming soon)
+9. Build rank answer for Quora (coming soon)
+10. Suggest Twitter trending hashtags
+
 
 
 ## Getting Started
