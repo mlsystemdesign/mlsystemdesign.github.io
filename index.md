@@ -3,7 +3,6 @@
 
 One stop guide for preparing for your machine learning interviews from top companies: Facebook, Apple, Amazon, Google, Snap, LinkedIn, Pinterest, Twitter 
 
-{% machine learning system design %}
 
 ## [Machine Learning System design](https://github.com/khangich/machine-learning-interview/blob/master/course.md) 
 
