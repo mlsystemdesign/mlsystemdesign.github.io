@@ -1,4 +1,4 @@
-## Welcome to Machine Learning System Design Guide. 
+## Welcome to Machine Learning System Design Guide 
 
 One stop guide for preparing for your machine learning interviews from top companies: Facebook, Apple, Amazon, Google, Snap, LinkedIn, Pinterest. 
 
