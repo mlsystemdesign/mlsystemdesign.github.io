@@ -2,7 +2,7 @@
 
 One stop guide for preparing for your machine learning interviews from top companies: Facebook, Apple, Amazon, Google, Snap, LinkedIn, Pinterest. 
 
-## [Machine Learning System design](course.md). 
+## [Machine Learning System design](https://github.com/khangich/machine-learning-interview/blob/master/course.md) 
 
 1. [Youtube Recommendation](https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit)
 2. [The main components in MLSD](https://docs.google.com/document/d/14l_t6GcXJ_Afp5WYCaUguxrqbdPovdU-P77nSUnYw7M/edit#heading=h.qjsyobo6l22v)
@@ -11,8 +11,6 @@ One stop guide for preparing for your machine learning interviews from top compa
 5. [Estimate Delivery time](https://docs.google.com/document/d/1yBYE4zR-jlkljeKXDYveXHBWozjrpUOGWghV6SLgzOM/edit)
 6. [Airbnb Search ranking](https://docs.google.com/document/d/1Ecc-BLkaIWOtq5Wd3-BuNS7jq0b1NhclcgxWzReINlQ/edit)
 
-
-## ML interview [study guide](https://github.com/khangich/machine-learning-interview)
 
 ## Getting Started
 
