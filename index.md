@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Machine Learning System Design Guide. 
 
-You can use the [editor on GitHub](https://github.com/mlsystemdesign/mlsystemdesign.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+One stop guide for preparing for your machine learning interviews from top companies: Facebook, Apple, Amazon, Google, Snap, LinkedIn, Pinterest. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Machine Learning System design](course.md). 
+| Section | 
+| ------------- |
+| 1. [Youtube Recommendation](https://docs.google.com/document/d/1_hKe8IdgI3ishoP1hyKTi13OtgV87ACQzPfku2ISis0/edit) |
+| 2. [The main components in MLSD](https://docs.google.com/document/d/14l_t6GcXJ_Afp5WYCaUguxrqbdPovdU-P77nSUnYw7M/edit#heading=h.qjsyobo6l22v) |
+| 3. [LinkedIn Feed Ranking](https://docs.google.com/document/d/1kWITEDGz7WBcNRZAvId1c6glgtBbf7rxEauK3TzK3MA/edit) |
+| 4. [Ad Click Prediction](https://docs.google.com/document/d/171TRaMK9ADFXGKXOcmONuhhuHwYJDNVDkWDDohBYVNk/edit)|
+| 5. [Estimate Delivery time](https://docs.google.com/document/d/1yBYE4zR-jlkljeKXDYveXHBWozjrpUOGWghV6SLgzOM/edit)|
+| 6. [Airbnb Search ranking](https://docs.google.com/document/d/1Ecc-BLkaIWOtq5Wd3-BuNS7jq0b1NhclcgxWzReINlQ/edit)|
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ML interview [study guide](https://github.com/khangich/machine-learning-interview)
 
-```markdown
-Syntax highlighted code block
+## Getting Started
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mlsystemdesign/mlsystemdesign.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| How to  | Resources |
+| ------------- | ------------- |
+| Prepare for interview  | [Common questions about Machine Learning Interview process](faqs.md).   |
+| Study guide | [Study guide](README.md) contained minimum set of focus area to aces your interview.   |
+| Design ML system | [ML system design](design.md) includes actual ML system design usecases.    |
+| ML usecases | [ML usecases](appliedml.md) from top companies    |
+| Test your ML knowledge  | [Machine Learning quiz](quiz.md) are designed based on actual interview questions from dozen of big companies.  |
+| Practice coding  | [Leetcode questions by categories for MLE](leetcode.md)  |
+| Advance topics | Read [advance topics](extra.md) |
+| Mock interivew  | Contact helppreparemle@gmail.com |
