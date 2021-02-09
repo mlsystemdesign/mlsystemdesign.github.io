@@ -5,7 +5,7 @@
 
 - Help with mock interview: helppreparemle@gmail.com
 
-## [Machine Learning System design](https://github.com/khangich/machine-learning-interview/blob/master/course.md) 
+## [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now availablem, you can get the course on educative.io [here](https://rebrand.ly/mlsd_launch). You can also get discounted code by sharing on your linkedin then submit this [form](https://rebrand.ly/MLSD_get_code)
 
 
 | Section | |
