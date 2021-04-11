@@ -1,9 +1,20 @@
 
 ## Welcome to Machine Learning System Design Guide 
 
-- One stop guide for preparing for your machine learning interviews from top companies: Facebook, Apple, Amazon, Google, Snap, LinkedIn, Pinterest, Twitter 
+- I'm a SWE, ML with 10 years of experiences and I helped people get MLE offers from top companies: FB (E5 and E6), Google (L4), Amazon (L5), Snap (L4, L6), NVIDIA (junior), Coupang (L5), StitchFix (Senior DS) and more. 
+- I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and interviewquery.com (coming soon).
+- I offer mock interviews with the focus on ML design. You can contact me at: helppreparemle@gmail.com
+- Learning about Ml and modeling is not sufficient to get offers from top companies, you need to stand out from hundreds of other candidates, ML design round is the unique round to achieve that. 
+- Why do I offer mock interview?
+    - Provide the most relevant and up to date ML techniques and domain knowledge for your targeted teams/companies. 
+    - Provide similar ML design interview environment for you to practice your skill. 
+    - Provide written feedback after the mock interviews.
+    - Provide full life cycle ML design: from training, inference and experimentations.
+- Who should NOT take the mock interviews?
+    - People still in the early stage: preparation, resume draft, phone screen etc. 
+    - People apply for junior roles are usually required for ML design.
+    - People apply for Analytics roles. 
 
-- Help with mock interview: helppreparemle@gmail.com
 
 ## [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available, you can get the course on educative.io [here](https://rebrand.ly/mlsd_launch). You can also get discounted code by sharing on your linkedin then submit this [form](https://rebrand.ly/MLSD_get_code)
 
