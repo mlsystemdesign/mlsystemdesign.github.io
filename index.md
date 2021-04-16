@@ -2,7 +2,7 @@
 ## Welcome to Machine Learning System Design Guide 
 
 - I'm a SWE, ML with 10 years of experiences and I helped people get MLE offers from top companies: FB (E5 and E6), Google (L4), Amazon (L5), Snap (L4, L6), NVIDIA (junior), Coupang (L5), StitchFix (Senior DS) and more. 
-- I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and interviewquery.com (coming soon).
+- I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mldesigninterview).
 - Learning about ML and modeling is not sufficient to get offers from top companies, you need to stand out from hundreds of other candidates, ML design round is the unique round to achieve that. You can contact me at: helppreparemle@gmail.com and book mock interview [here](https://calendly.com/helppreparemle/mock-interview?month=2021-04)
 - Why do I offer mock interview?
     - Provide the most relevant and up to date ML techniques and domain knowledge for your targeted teams/companies. 
@@ -15,7 +15,7 @@
     - People apply for Analytics roles. 
 
 
-## [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available, you can get the course on educative.io [here](https://rebrand.ly/mlsd_launch). You can also get discounted code by sharing on your linkedin then submit this [form](https://rebrand.ly/MLSD_get_code)
+### Machine Learning System design is now available, you can get the course on educative.io [here](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mldesigninterview)
 
 
 | Section | |
