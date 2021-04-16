@@ -3,7 +3,7 @@
 
 - I'm a SWE, ML with 10 years of experiences and I helped people get MLE offers from top companies: FB (E5 and E6), Google (L4), Amazon (L5), Snap (L4, L6), NVIDIA (junior), Coupang (L5), StitchFix (Senior DS) and more. 
 - I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mldesigninterview).
-- Learning about ML and modeling is not sufficient to get offers from top companies, you need to stand out from hundreds of other candidates, ML design round is the unique round to achieve that. You can contact me at: helppreparemle@gmail.com and book mock interview [here](https://calendly.com/helppreparemle/mock-interview?month=2021-04)
+- Learning about ML and modeling is not sufficient to get offers from top companies, you need to stand out from hundreds of other candidates, ML design round is the unique round to achieve that. You can contact me at: helppreparemle@gmail.com and book mock interview [here](https://rebrand.ly/mlmockinterview)
 
 
 - Why do I offer mock interview?
