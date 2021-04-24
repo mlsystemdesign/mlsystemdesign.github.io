@@ -5,6 +5,8 @@
 - I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mlsdmock).
 - Learning about ML and modeling is not sufficient to get offers from top companies, you need to stand out from hundreds of other candidates, ML design round is the unique round to achieve that. You can contact me at: helppreparemle@gmail.com and book mock interview [here](https://rebrand.ly/mlsdmock)
 
+# Mock interviews
+- I helped people get offers for FB E5/E6, Snap, Amazon, NVIDIA, Google and more. In addition, there are 300+ people took my ML assessments to prepare for their interviews. 
 
 - Why do I offer mock interview?
     - Provide the most relevant and up to date ML techniques and domain knowledge for your targeted teams/companies. 
@@ -16,6 +18,10 @@
     - People apply for junior roles are usually required for ML design.
     - People apply for Analytics roles. 
 
+
+
+
+[<img src="terstimonials.png">](https://rebrand.ly/mlsdmock)
 
 ### Machine Learning System design is now available, you can get the course on educative.io [here](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mldesigninterview)
 
