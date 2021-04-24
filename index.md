@@ -3,7 +3,7 @@
 
 - I'm a SWE, ML with 10 years of experiences and I helped people get MLE offers from top companies: FB (E5 and E6), Google (L4), Amazon (L5), Snap (L4, L6), NVIDIA (junior), Coupang (L5), StitchFix (Senior DS) and more. 
 - I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mlsdmock).
-- Learning about ML and modeling is not sufficient to get offers from top companies, you need to stand out from hundreds of other candidates, ML design round is the unique round to achieve that. You can contact me at: helppreparemle@gmail.com and book mock interview [here](https://rebrand.ly/mlmockinterview)
+- Learning about ML and modeling is not sufficient to get offers from top companies, you need to stand out from hundreds of other candidates, ML design round is the unique round to achieve that. You can contact me at: helppreparemle@gmail.com and book mock interview [here](https://rebrand.ly/mlsdmock)
 
 
 - Why do I offer mock interview?
@@ -47,4 +47,4 @@
 | Test your ML knowledge  | [Machine Learning quiz](https://github.com/khangich/machine-learning-interview/blob/master/quiz.md) are designed based on actual interview questions from dozen of big companies.  |
 | Practice coding  | [Leetcode questions by categories for MLE](https://github.com/khangich/machine-learning-interview/blob/master/leetcode.md)  |
 | Advance topics | Read [advance topics](https://github.com/khangich/machine-learning-interview/blob/master/extra.md) |
-| Mock interivew  | Contact helppreparemle@gmail.com |
+| Mock interivew  | Click [here](https://rebrand.ly/mlsdmock) |
