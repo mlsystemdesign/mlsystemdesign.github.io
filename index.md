@@ -21,7 +21,7 @@
     - People apply for Analytics roles. 
 
 
-[<img src="https://raw.githubusercontent.com/khangich/machine-learning-interview/master/terstimonials.png">](https://rebrand.ly/mlsdmock)
+<a href="https://rebrand.ly/mlsdmock"><img src="https://raw.githubusercontent.com/khangich/machine-learning-interview/master/terstimonials.png"></a>
 
 ### Machine Learning System design is now available, you can get the course on educative.io [here](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mldesigninterview)
 
