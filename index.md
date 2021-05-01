@@ -1,5 +1,6 @@
 
 ## Welcome to Machine Learning System Design Guide 
+- Please go to [http://mlengineer.io/](http://mlengineer.io/) for latest content. 
 
 - I'm a SWE, ML with 10 years of experiences and I helped people get MLE offers from top companies: FB (E5 and E6), Google (L4), Amazon (L5), Snap (L4, L6), NVIDIA (junior), Coupang (L5), StitchFix (Senior DS) and more. 
 - I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mlsdmock).
