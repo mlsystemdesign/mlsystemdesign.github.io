@@ -2,6 +2,28 @@
 ## Welcome to Machine Learning System Design Guide 
 - Please go to [http://mlengineer.io/](http://mlengineer.io/) for latest content. 
 
+<p align="center">
+ Machine Learning System Design - Early Preview  - <a href ="https://rebrand.ly/mldesignbook"> Buy on Amazon </a><br>
+ <a href="https://rebrand.ly/mldesignbook"> <img src="https://miro.medium.com/max/1400/1*Te6wgTLFw9AD6r9D6sVNMg.png" alt="Machine Learning System Design Interview" width="400" height="300"> </a>
+ 
+ </p>
+ <p align="center">
+ Machine Learning interviews book on Amazon.<br>
+<a href="https://www.amazon.com/dp/B09S9JBT86"> <img src="https://miro.medium.com/max/700/1*e3TitgWHyr6bO_bOWtP4Rg.png" alt="Machine Learning Interviews book on Amazon" width="400" height="300"> </a>
+ 
+</p>
+
+
+- Most popular post: [One lesson I learned after solving 500 leetcode questions](https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b)
+- Oct 10th: Machine Learning System Design course became the [number 1 ML course](https://www.linkedin.com/posts/activity-6853724396188790784-tWxj) on educative. 
+- June 8th: launch [interview stories series](https://rebrand.ly/interviewstory). 
+- April 29th: I launched [mlengineer.io](https://mlengineer.io/from-google-rejection-to-40-offers-71337a224ebe?sk=1408513db21536d25c23f67ce898b37d) blog so you can get latest machine learning interview experience.
+- April 15th 2021: Machine Learning System Design is launched on [interviewquery.com](https://rebrand.ly/mldesigninterview).
+- Feb 9th 2021: [Machine Learning System design](https://rebrand.ly/mlsd_launch) is now available on [educative.io](https://rebrand.ly/mlsd_launch).
+- I'm a SWE, ML with 10 years of experience ([Linkedin profile](https://www.linkedin.com/in/phamkhang/)). I had offers from Google, LinkedIn, Coupang, Snap and StichFix. Read my [blog](https://rebrand.ly/mleio). 
+
+
+
 - I'm a SWE, ML with 10 years of experiences and I helped people get MLE offers from top companies: FB (E5 and E6), Google (L4), Amazon (L5), Snap (L4, L6), NVIDIA (junior), Coupang (L5), StitchFix (Senior DS) and more. 
 - I'm author of [ML interview github repo](https://github.com/khangich/machine-learning-interview) and the ML system design course on [educative.io](https://rebrand.ly/mlsd_launch) and [interviewquery.com](https://rebrand.ly/mlsdmock).
 
